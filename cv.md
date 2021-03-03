@@ -25,15 +25,15 @@ ___Frameworks___:
 *React  
 
 ___Tools & Technologies___:
-*HTML5 
-*CSS3
-*AJAX
-*Git
-*express.js
-##Experience
+* HTML5 
+* CSS3
+* AJAX
+* Git
+* express.js
+## Experience
 ***
 I worked as a web developer for a year. Where I developed adaptive and cross browser layouts, websites, landing pages, responsive themes for WordPress. Various custom work. Also, I worked as a front-end developer for a year. I was involved in web development of various projects and SPA development for different clients.
-##Education
+## Education
 ***
 __Main__  
 
@@ -44,7 +44,7 @@ Vitebski Dzjaržauny Universitet imja P.M. Mašerova | Bachelor's degree | Math 
 __Online__  
 * HTML Academy
 * Freecodecamp
-##English
+## English
 ***
 I have been studying English since first grade at school. After school, I had two years of English at university. Now I practice my English on online platforms such as duolingo, lingualeo, puzzle-english.com. I have B1 level of English.
   
