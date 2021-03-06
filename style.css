@@ -1,0 +1,54 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+    text-rendering: optimizeLegibility;
+  }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family: "Helvetica", "Arial", sans-serif;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+  h1, h2 {
+    border-bottom: 1px solid #eaecef;
+    color: #24292e;
+  }
+
+  b {
+    color: #24292e;
+  }
+
+  table {
+    line-height: 1.5;
+    border-spacing: 0;
+    border-collapse: collapse;
+  }
+
+  th, tr, td {
+    border: 1px solid #dfe2e5;
+    padding: 6px 13px;
+  }
+
+  .resume, .contacts, .summary, .skills, .experience, .education, .english {
+    margin-top: 60px;
+  }
+
+  .page {
+    background-color: white;
+    display: flex;
+    flex-flow: column;
+    max-width: 1024px;
+    margin: 0 auto;
+  }
+
+  .resume img { 
+    width: 140px;
+  }
